@@ -35,13 +35,15 @@
     color: #07daff;
     background-color: #b44242;
   }
-  .footer{
+  #footer {
     text-align: center;
-    right:0;
-    bottom:0;
-    width:100%;
-    background-color: rgb(49, 156, 156);
-    color: aliceblue;text-align: center;
+    background-color: #000000;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  #fp2 {
+    color: aliceblue;
   }
 h1 {
     text-align: center;

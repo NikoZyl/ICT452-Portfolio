@@ -44,13 +44,15 @@ nav ul li a:hover {
   background-color: #b44242;
 }
 
-.footer{
+#footer {
   text-align: center;
-  right:0;
-  bottom:0;
-  width:100%;
-  background-color: rgb(49, 156, 156);
-  color: aliceblue;text-align: center;
+  background-color: #000000;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+#fp2 {
+  color: aliceblue;
 } /* Style the font color and background color of the footer */
 table#table2 {
   margin: 0 auto;
