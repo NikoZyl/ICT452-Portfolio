@@ -38,15 +38,14 @@ h1 {
     color: #07daff;
     background-color: #b44242;
   }
-  #footer {
-    text-align: center;
-    background-color: #000000;
+  .footer{
     position: fixed;
-    bottom: 0;
-    width: 100%;
-  }
-  #fp2 {
-    color: aliceblue;
+    text-align: center;
+    right:0;
+    bottom:0;
+    width:100%;
+    background-color: rgb(49, 156, 156);
+    color: aliceblue;text-align: center;
   }
 table {
     margin: 0 auto;
